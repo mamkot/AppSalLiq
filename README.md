@@ -9,13 +9,17 @@ Projeto desenvolvido como parte do 2° ano no curso de Desenvolvimento de Sistem
 </h4>
 
 ## Descrição
-<p align=>Este projeto de framework Angular utiliza as linguagens de programação HTML e TypeScript cria uma interface simples para que o usuário insira dois números e execute operações matemáticas básicas (soma, subtração, multiplicação e divisão) clicando nos botões correspondentes, com o resultado das operações sendo exibido na página em tempo real.
+<p align=>Este projeto consiste em uma página web que fornece informações sobre o salário líquido de uma pessoa após os devidos descontos. Assim, a página possui um formulário onde o usuário pode inserir informações relacionadas ao salário bruto, horas extras trabalhadas, desconto por faltas e a porcentagem de desconto no imposto de renda. Ao clicar no botão "calcular", os valores são processados pela função SalLiq do arquivo TypeScript. O cálculo é feito da seguinte maneira:
+
+* O valor do salário bruto (sb) e o valor das horas extras (vl) são somados para obter o valor total dos proventos (Provento);
+
+* O desconto por faltas (df) e a porcentagem de desconto no imposto de renda (dc) são usados para calcular o valor total do desconto (Desconto). O desconto do imposto de renda é calculado como uma porcentagem do salário bruto;
+
+* O resultado do salário líquido é calculado subtraindo o valor total do desconto (Desconto) dos proventos (Provento), e esse valor é exibido na interface do usuário.
 
 </p>
 
 ## Projeto
-
-https://github.com/mamkot/AppCalculadora/assets/102431539/c5469a41-919e-487a-94f0-e601a99fcb14
 
 ## Como executar o código (no Windows):
 
