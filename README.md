@@ -21,6 +21,10 @@ Projeto desenvolvido como parte do 2° ano no curso de Desenvolvimento de Sistem
 
 ## Projeto
 
+
+https://github.com/mamkot/AppSalLiq/assets/102431539/b5be53b8-b050-414c-89dd-ac375c180af1
+
+
 ## Como executar o código (no Windows):
 
 <h3><b>1. Instalação do IONIC</b></h3>
