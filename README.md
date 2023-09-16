@@ -42,8 +42,8 @@ https://github.com/mamkot/AppSalLiq/assets/102431539/b5be53b8-b050-414c-89dd-ac3
 * Após o download do template, verifique o diretório criado através do "dir" e acesse-o;
 * Ao entrar em "APP1', execute o aplicativo pela instrução: "ionic serve", que abrirá o navegador com a aplicação rodando;
 * Instale o editor de código-fonte "Visual Studio Code" e acesse a pasta "APP1";
-* Acesse os caminhos "APP1 > src > app > home" e comece a programas pelos arquivos "home.page.html", "home.page.ts" e "home.page.scss".
-
+* No VSCode, vá pelos caminhos "APP1 > src > app > home" e comece a programar pelos arquivos "home.page.html", "home.page.ts" e "home.page.scss".
+* 
 <h6>os arquivos:<p>
   
 home.page.html: descreve as instruções HTML visualizadas na página, <p>
